@@ -1,0 +1,39 @@
+{
+  "DASHBOARD_HEALTH_GATEWAY_REQUIRED": "Bitte verbinden Sie ein <a href='{{unifiGatewayLink}}' target='_blank'>UniFi Gateway</a>, um die Anzeigen für Latenzzeit und Durchsatz sowie den manuellen Speed-Test zu aktivieren.",
+  "DASHBOARD_HEALTH_GATEWAY_REQUIRED_TITLE": "UniFi Gateway erforderlich",
+  "DASHBOARD_OCCUPANCY_GRAPH_DEVICES_ON_NG_CHANNEL": "Geräte im 2,4-GHz-Band",
+  "DASHBOARD_OCCUPANCY_GRAPH_DEVICES_ON_NA_CHANNEL": "Geräte im 5-GHz-Band",
+  "DASHBOARD_OCCUPANCY_GRAPH_AP_REQUIRED": "Bitte verbinden Sie mindestens einen <a href='{{unifiAPLink}}' target='_blank'>UniFi Access Point</a> um die Anzeige der Kanalbelegung zu aktivieren.",
+  "DASHBOARD_OCCUPANCY_GRAPH_AP_REQUIRED_TITLE": "UniFi Access Point erforderlich",
+
+  "DASHBOARD_THROUGHPUT_GRAPH_DOWNLOAD": "Durchsatz und Latenzzeit in Empfangsrichtung",
+  "DASHBOARD_THROUGHPUT_GRAPH_UPLOAD": "Durchsatz und Latenzzeit in Senderichtung",
+
+  "DASHBOARD_THROUGHPUT": "Durchsatz",
+  "DASHBOARD_THROUGHPUT_BPS": "B/s",
+  "DASHBOARD_THROUGHPUT_Y_AXIS_LABEL": "Durchsatz [{{prefix}}bps]",
+  "DASHBOARD_MAX_THROUGHPUT": "Max. Durchsatz",
+  "DASHBOARD_AVG_AND_MAX_THROUGHPUT": "Durchschn./Max. Durchsatz",
+  "DASHBOARD_LATENCY": "Latenzzeit",
+  "DASHBOARD_LATENCY_MSEC": "ms",
+  "DASHBOARD_THROUGHPUT_NO_DATA_AVAILABLE": "Keine Daten vorhanden",
+
+  "DASHBOARD_THROUGHPUT_GATEWAY_REQUIRED": "Bitte verbinden Sie ein <a href='{{unifiGatewayLink}}' target='_blank'>UniFi Gateway</a>, um frühere Auswertungen von Durchsatz und Latenzzeit zu aktivieren.",
+  "DASHBOARD_THROUGHPUT_GATEWAY_REQUIRED_TITLE": "UniFi Gateway ferforderlich",
+
+  "DASHBOARD_INVENTORY_DEVICES": "Geräte",
+  "DASHBOARD_INVENTORY_DEVICES_DONUT_LABEL": "{count, plural, one{Gerät} other{Geräte}}",
+  "DASHBOARD_INVENTORY_CLIENTS": "Endgeräte",
+  "DASHBOARD_INVENTORY_CLIENTS_DPI_NOT_ENABLED": "DPI ist nicht aktiviert",
+  "DASHBOARD_INVENTORY_CLIENTS_DPI_NOT_ENABLED_DETAILS": "Bitte aktivieren Sie Deep Packet Inspection um detailliertere Endgeräte-Informationen zu erhalten.",
+  "DASHBOARD_INVENTORY_UNKNOWN_OR_OTHER_CLIENTS": "Unbekannt/Andere",
+  "DASHBOARD_INVENTORY_CLIENTS_DONUT_LABEL": "{count, plural, one{Teilnehmer} other{Teilnehmer}}",
+  "DASHBOARD_INVENTORY_CLIENTS_COUNT": "{count} {count, plural, one{Teilnehmer} other{Teilnehmer}}",
+
+  "DASHBOARD_DPI": "Deep Packet Inspection",
+  "DASHBOARD_DPI_NO_DATA_TITLE": "Keine DPI-Daten vorhanden",
+  "DASHBOARD_DPI_NO_DATA": "Bitte stellen Sie sicher, dass Deep Packet Inspection aktiviert ist und vom Gateway unterstützt wird",
+  "DASHBOARD_DPI_TRAFFIC": "Traffic",
+  "DASHBOARD_DPI_OTHER": "Andere",
+  "DASHBOARD_DPI_UNKNOWN": "Unbekannt"
+}

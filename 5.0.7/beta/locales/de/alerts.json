@@ -1,0 +1,17 @@
+{
+  "ALERT_TABLE_HEADER_DEVICE": "Gerät",
+  "ALERT_TABLE_HEADER_EVENT": "Ereignis",
+  "ALERT_TABLE_HEADER_TIME": "Zeit",
+
+  "ALERT_TABLE_SHOW_ARCHIVED_ALERTS": "Archivierte Ereignisse anzeigen.",
+
+  "ALERT_TABLE_EMPTY_HEADER": "Keine Alarme gefunden",
+  "ALERT_TABLE_EMPTY_NO_ALERTS": "Es besteht im Moment kein Alarm.",
+  "ALERT_TABLE_EMPTY_NO_MATCHES": "Zu diesen Suchkriterien wurde kein Alarm gefunden.",
+
+  "ALERT_TABLE_LIMITED": "Die Anzahl von Einträgen ist beschränkt auf {{currentLength}} von {{totalLength}}.",
+  "ALERT_TABLE_FETCH_MORE": "Mehr ...",
+
+  "ALERT_ACTIONS_ARCHIVE": "Archivieren",
+  "ALERT_ACTIONS_ARCHIVE_ALL": "Alle archivieren"
+}

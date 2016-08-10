@@ -1,0 +1,23 @@
+{
+  "PAYMENT_ACTIONS_REFUND": "Zurück erstatten",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_TITLE": "Zahlung zurück erstatten",
+  "PAYMENT_ACTIONS_REFUND_CONFIRM_MESSAGE": "Möchten Sie die Zahlung wirklich zurück erstatten?",
+  "PAYMENT_ACTIONS_REFUND_SUCCESS": "Die Zahlung wurde zurück erstattet.",
+  "PAYMENT_ACTIONS_REFUND_ERROR": "Bei der Rückerstattung ist ein Fehler aufgetreten.",
+
+  "PAYMENT_STATUS_PAID": "Bezahlt",
+  "PAYMENT_STATUS_VOID": "Abgelaufen/Zurück erstattet",
+
+  "PAYMENT_TABLE_HEADER_TIME": "Zeit",
+  "PAYMENT_TABLE_HEADER_LAST_NAME": "Nachname",
+  "PAYMENT_TABLE_HEADER_FIRST_NAME": "Vorname",
+  "PAYMENT_TABLE_HEADER_PACKAGE": "Paket",
+  "PAYMENT_TABLE_HEADER_AMOUNT": "Menge",
+  "PAYMENT_TABLE_HEADER_EXTRA_INFO": "Zusätzliche Informationen",
+  "PAYMENT_TABLE_HEADER_STATUS": "Status",
+  "PAYMENT_TABLE_HEADER_ACTIONS": "Aktionen",
+
+  "PAYMENT_TABLE_EMPTY_HEADER": "Keine Zahlungen gefunden",
+  "PAYMENT_TABLE_EMPTY_NO_MATCHES": "Es entsprechen keine Zahlungen den angegebenen Suchkriterien.",
+  "PAYMENT_TABLE_EMPTY_NO_PAYMENTS": "Es wurden noch keine Zahlungen empfangen."
+}

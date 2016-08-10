@@ -1,0 +1,27 @@
+{
+  "ACCOUNT_TITLE_HOTSPOT_MANAGER": "Hotspot Manager",
+
+  "ACCOUNT_LOGIN_LABEL_USERNAME": "Benutzername",
+  "ACCOUNT_LOGIN_LABEL_PASSWORD": "Passwort",
+  "ACCOUNT_LOGIN_ACTIONS_SIGN_IN": "Anmelden",
+  "ACCOUNT_LOGIN_LINK_FORGOT_PASSWORD": "Passwort vergessen?",
+
+  "ACCOUNT_NOTICE_LOGIN_ERROR_TITLE": "Anmeldung fehlgeschlagen",
+  "ACCOUNT_NOTICE_LOGIN_INVALID_ERROR": "Benutzername und/oder Passwort ungültig.",
+  "ACCOUNT_NOTICE_FORGOT_PASSWORD_ERROR_TITLE": "Fehler beim Zurücksetzen des Passwortes",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_TITLE": "Account-Prüfung fehlgeschlagen",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE": "Wenn Sie bereits einen Benutzernamen und Passwort haben können Sie sich",
+  "ACCOUNT_NOTICE_VERIFY_ERROR_MESSAGE_LOGIN": "hier anmelden.",
+
+  "ACCOUNT_NOTICE_SSO_LOGIN": "SSO Anmeldung...",
+
+  "ACCOUNT_FORGOT_PASSWORD_LABEL_EMAIL": "Bitte Geben Sie Ihre eMail-Adresse an um das Passwort zurückzusetzen",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD": "Passwort zurücksetzen",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_BACK": "Zurück",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_SUCCESS": "Es wurde Ihnen eine eMail zum Zurücksetzen des Passwortes zugesandt.",
+  "ACCOUNT_FORGOT_PASSWORD_ACTIONS_RESET_PASSWORD_ERROR": "Beim Zurücksetzen des Passwortes ist ein Fehler aufgetreten.",
+
+  "ACCOUNT_LABEL_ONE_ACCOUNT_FOR_ALL": "Ein Konto für alle Ubiquiti-Apps und Dienste.",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_NO_ACCOUNT": "Sie haben kein Konto?",
+  "ACCOUNT_LABEL_ONE_ACCOUNT_REGISTER_HERE": "Registerieren Sie sich hier"
+}

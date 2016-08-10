@@ -1,0 +1,18 @@
+{
+  "EVENT_TITLE_UNREAD_ALERTS": "{count, plural, one{Alarm} other{Alarme}} ungelesen",
+
+  "EVENT_TYPE_FILTER_ALL": "Alle",
+  "EVENT_TYPE_FILTER_ADMIN": "Administrator",
+  "EVENT_TYPE_FILTER_LAN": "LAN",
+  "EVENT_TYPE_FILTER_WLAN": "WLAN",
+
+  "EVENT_TABLE_HEADER_EVENT": "Ereignis",
+  "EVENT_TABLE_HEADER_TIME": "Zeit",
+
+  "EVENT_TABLE_EMPTY_HEADER": "Keine Ereignisse gefunden",
+  "EVENT_TABLE_EMPTY_NO_EVENTS": "Es befinden sich keine Ereignisse in diesem Zeitabschnitt.",
+  "EVENT_TABLE_EMPTY_NO_MATCHES": "Es passen keine Eregnisse zu den angegebenen Suchkriterien.",
+
+  "EVENT_TABLE_LIMITED": "Die Anzahl von Ergebnissen ist beschränkt auf {{currentLength}} von {{totalLength}}.",
+  "EVENT_TABLE_FETCH_MORE": "Mehr anzeigen"
+}

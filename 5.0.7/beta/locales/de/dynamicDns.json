@@ -1,0 +1,14 @@
+{
+  "DYNAMIC_DNS_TABLE_HEADER_SERVICE": "Dienst",
+  "DYNAMIC_DNS_TABLE_HEADER_STATUS": "Status",
+  "DYNAMIC_DNS_TABLE_HEADER_HOSTNAME": "Hostname",
+  "DYNAMIC_DNS_TABLE_HEADER_USERNAME": "Benutzername",
+  "DYNAMIC_DNS_TABLE_HEADER_SERVER": "Server",
+  "DYNAMIC_DNS_TABLE_HEADER_IP": "IP-Adresse",
+  "DYNAMIC_DNS_TABLE_HEADER_LAST_UPDATED": "Letzte Aktualisierung",
+  "DYNAMIC_DNS_TABLE_HEADER_ACTIONS": "Aktionen",
+
+  "DYNAMIC_DNS_TABLE_EMPTY_HEADER": "Keine dynamischen DNS-Dienste gefunden.",
+  "DYNAMIC_DNS_TABLE_EMPTY_NO_DYNAMIC_DNS": "Es wurden bisher keine dynamischen DNS-Dienste erkannt.",
+  "DYNAMIC_DNS_TABLE_EMPTY_NO_MATCHES": "Es entsprechen keine dynamischen DNS-Dienste den angegebenen Suchkriterien."
+}

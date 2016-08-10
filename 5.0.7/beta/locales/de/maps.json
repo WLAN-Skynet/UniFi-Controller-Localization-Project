@@ -1,0 +1,64 @@
+{
+  "MAP_API_LOAD_FAILURE_TITLE": "Karten sind momentan nicht verfügbar",
+  "MAP_API_LOAD_FAILURE_MESSAGE": "Die Karten benötigen eine bestehende Internet-Verbindung. Bitte überprüfen Sie die Verbindung und versuchen Sie es erneut.",
+
+  "MAP_FEATURES": "Merkmale",
+  "MAP_LAYERS": "Ebenen",
+  "MAP_FEATURE_DETAILS": "Details",
+  "MAP_FEATURE_COVERAGE": "Ausleuchtung",
+  "MAP_FEATURE_TOPOLOGY": "Topologie",
+
+  "MAP_FEATURE_COVERAGE_TYPE": "Art der Ausleuchtung",
+  "MAP_FEATURE_COVERAGE_2G": "2,4 GHz Ausleuchtung",
+  "MAP_FEATURE_COVERAGE_5G": "5 GHz Ausleuchtung",
+  "MAP_FEATURE_COVERAGE_RECEIVER_SENSITIVITY": "Empfindlichkeit des Empfängers",
+  "MAP_FEATURE_COVERAGE_RECEIVER_SENSITIVITY_HINT": "Konfigurieren Sie die Empfindlichkeit des Empfängers (der Station) um genauere Ergebnisse zu erhalten.",
+
+  "MAP_DEVICES_FILTER_TITLE": "Geräte filtern",
+  "MAP_DEVICES_ALL": "Alle Geräte",
+  "MAP_DEVICES_2G": "2,4 GHz Geräte",
+  "MAP_DEVICES_5G": "5 GHz Geräte",
+
+  "MAP_CONFIGURE_MAPS": "Karten konfigurieren",
+  "MAP_GOOGLE_SEARCH_PLACEHOLDER": "Nach Adresse, Ort oder Koordinaten suchen",
+
+  "MAP_EDIT_POPOVER_HEADER": "Karte bearbeiten",
+  "MAP_UNPLACED_DEVICES": "Nicht platzierte Geräte",
+  "MAP_UNPLACED_DEVICES_HINT": "Ziehen Sie ein Gerät über die Karte um es zu platzieren.",
+  "MAP_DEVICE_REMOVE_FAILED": "Das Gerät konnte nicht entfernt werden",
+
+  "MAP_CONFIGURE": "Karten konfigurieren",
+  "MAP_CONFIGURE_NAME": "Name",
+  "MAP_CONFIGURE_ACTIONS": "Aktionen",
+  "MAP_CONFIGURE_DELETE_HEADER": "Karte entfernen",
+  "MAP_CONFIGURE_DELETE_CONFIRM": "Möchten Sie die Karte \"{{mapName}}\" wirklich entfernen?",
+  "MAP_CONFIGURE_ADD": "karte hinzufügen",
+  "MAP_CONFIGURE_DONE": "Fertig",
+
+  "MAP_EDIT": "Karte bearbeiten",
+  "MAP_EDIT_ADD": "Karte hinzufügen",
+  "MAP_EDIT_MAP_NAME": "Name der Karte eingeben",
+  "MAP_EDIT_IMAGE": "Bild hochladen",
+  "MAP_EDIT_IMAGE_SELECT": "Kartenbild auswählen",
+  "MAP_EDIT_IMAGE_SELECT_DIFFERENT_LABEL": "Sie haben etwas anderes erwartet? ",
+  "MAP_EDIT_IMAGE_SELECT_DIFFERENT": "Wählen Sie eine andere Karte.",
+  "MAP_EDIT_GOOGLE": "Google Maps",
+  "MAP_EDIT_GOOGLE_FINDING_LOCATION": "Versuche den aktuellen Standort zu ermitteln ... ",
+  "MAP_EDIT_SKIP": "Überspringen",
+  "MAP_EDIT_NAME_MISSING" : "Kartenname fehlt",
+  "MAP_EDIT_SAVE_HEADER": "Änderungen übernehmen",
+  "MAP_EDIT_SAVE_CONFIRM": "Möchten Sie die Änderungen wirklich speichern?",
+
+  "MAP_SCALE_HEADER": "Kartenmaßstab setzen",
+  "MAP_SCALE_DESCRIPTION": "Zeichnen Sie eine Linie zwischen zwei Endpunkten durch Klicken und Ziehen. Anschließend definieren Sie die Distanz zwischen den beiden Punkten.",
+  "MAP_SCALE_DISTANCE": "Distanz",
+  "MAP_SCALE_APPLY": "Maßstab übernehmen",
+  "MAP_METER_UNIT_SHORT_NAME": "m",
+  "MAP_FEET_UNIT_SHORT_NAME": "ft",
+
+  "MAP_DEVICE_MARKER_UNNAMED": "Unbenannt",
+  "MAP_DEVICE_MARKER_MAC": "MAC",
+  "MAP_DEVICE_MARKER_CHANNEL": "Kanal",
+  "MAP_DEVICE_MARKER_GUESTS": "Gäste",
+  "MAP_DEVICE_MARKER_USERS": "Benutzer"
+}

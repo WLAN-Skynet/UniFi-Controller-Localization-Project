@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Schnittstelle",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Remote-IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Benutzer",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Empfangene Pakete",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Gesendete Pakete",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Empfangene Bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Gesendete Bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Laufzeit",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Aktionen",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Beenden",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Es wurden keine laufenden VPN-Sitzungen gefunden",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Es wurden keine laufenden VPN-Sitzungen gefunden.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Es entsprechen keine VPN-Sitzungen den angegebenen Suchkriterien.",
+  
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Bitte bestätigen",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Möchten Sie diese VPN-Sitzung wirklich beenden?",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Verbindung beendet",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Bei der Trennung der VPN-Sitzung ist ein Fehler aufgetreten."
+}
